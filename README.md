@@ -24,5 +24,5 @@ Para ejecutar este proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/marvel-api.git
+   git clone https://github.com/ChenO3-bit/marvel-api.git
 
